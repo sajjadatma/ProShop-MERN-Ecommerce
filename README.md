@@ -1,5 +1,5 @@
 # ProShop-MERN-Ecommerce
-See Demo at:
+Demo:
 https://proshopsajjad.herokuapp.com/
 =====================================
 This is My New Ecommerce based on MERN stack,
@@ -9,6 +9,7 @@ React , Redux , React-Bootstrap
 
 Backend:
 Express js , Mongodb
+
 
 ====================================
 Based on Brad Traversy Udemy tutorial. 
