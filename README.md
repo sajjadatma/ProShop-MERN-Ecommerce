@@ -9,3 +9,6 @@ React , Redux , React-Bootstrap
 
 Backend:
 Express js , Mongodb
+
+====================================
+Based on Brad Traversy Udemy tutorial. 
